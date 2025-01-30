@@ -17,3 +17,9 @@ Chotu is an **AI-powered food ordering chatbot** built using **Google Dialogflow
 - **Google Cloud / Firebase** – Hosting & deployment (if applicable).
 
 ## 📂 Project Structure
+  /chotu-chatbot
+  │── /webapp                 # Frontend for food ordering
+  │── /backend                # Webhook and API integration
+  │── /database               # MySQL database setup
+  │── dialogflow-agent        # Chatbot configuration files
+  │── README.md               # Project documentation
